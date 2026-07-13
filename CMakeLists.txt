@@ -1,3 +1,6 @@
+set(ROS_EDITION "ROS2")
+set(DISTRO_ROS "jazzy")
+
 # judge which cmake codes to use 
 if(ROS_EDITION STREQUAL "ROS1")
 
